@@ -17,7 +17,7 @@ https://github.com/Brunodiaz1975
 
 ##enlace demo
 
-https:
+https://brunodiaz1975.github.io/proyecto3/
 
 ##sobre mi
 TSU egresado de la Universidad Tecnologica de Nezahualcoyotl  en la carrera de Comercializacion.
