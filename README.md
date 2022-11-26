@@ -1,6 +1,6 @@
 # proyecto3
 
-#Dragon Ball Super APi (Proyecto 3. Dashboard App)
+# Dragon Ball Super APi (Proyecto 3. Dashboard App)
  
 Se realiza una conexión a través de un API a una base de datos controlada por un tercero.
 Ya descargados los datos se manipula de manera que sea facil la interaccion de el usuario con los datos
